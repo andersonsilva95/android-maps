@@ -22,7 +22,11 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Locais atuais" />
+            android:text="Locais atuais"
+            android:background="@android:color/green"
+            android:textColor="@android:color/white"
+
+            />
     </LinearLayout>
 
     <fragment
